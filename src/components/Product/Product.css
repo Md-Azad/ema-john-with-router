@@ -1,0 +1,11 @@
+.product img{
+    width: 286px;
+    height: 286px;
+    
+}
+.product{ 
+    height: 500px;
+    padding: 10px;
+    border: 1px solid wheat;
+    margin-bottom: 10px;
+}
